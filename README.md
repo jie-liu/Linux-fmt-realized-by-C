@@ -17,7 +17,7 @@ Jie Liu, Department of Industrial and Systems Engineering, Lehigh University
 Compilation
 -----------
 
-    The project was built with Eclipse on Mac OS so there is folder called Debug. However, if Eclipse is not available in your machine, you can compile the src code (under "./src") by using command
+The project was built with Eclipse on Mac OS so there is folder called Debug. However, if Eclipse is not available in your machine, you can compile the src code (under "./src") by using command
                 gcc fmt.c -o fmt
 
 
